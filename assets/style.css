@@ -1,0 +1,35 @@
+h1 {
+  color: darkblue;
+  font-size: 50px;
+  font-style: italic;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+ul .score {
+  color: gray;
+}
+
+.gold {
+  color: gold;
+}
+
+
+#gameLink {
+  text-align: center;
+  border: 1px solid gray;
+  margin-top: 50px;
+  margin-left: 150px;
+}
+
+a:hover {
+  color: green;
+}
+
+.screenshot_text {
+  color: yellow;
+  text-align: center;
+}
+
+#game {
+  padding-left: 90px;
+}
